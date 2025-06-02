@@ -25,7 +25,7 @@ public class Main{
         }
 
         scanner.close();
-        System.out.println("👋 Calculator closed.");
+        System.out.println("Calculator closed.");
     }
 
     // Expression evaluator
